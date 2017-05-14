@@ -4,10 +4,10 @@ uses crt;
  (*
     Problem: Multiple of 3 and 5
     Problem 1
-
+    
     @Author: Chris M. Perez
     @Date:   5/13/2017
-  *)
+ *)
 
 var
   n , total: longint;
