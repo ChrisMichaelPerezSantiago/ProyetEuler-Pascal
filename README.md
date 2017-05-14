@@ -1,5 +1,6 @@
 # ProyetEuler-Pascal
-***Old School programming language***
+***Old School Programming language***
+-------------------------------------
 **Author**
 -----------------
 Development Lead
