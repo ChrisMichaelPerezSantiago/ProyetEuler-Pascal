@@ -1,4 +1,4 @@
-program main.pas;
+program problem04;
 uses crt;
 
   (*
