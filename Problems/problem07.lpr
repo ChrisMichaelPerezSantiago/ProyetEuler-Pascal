@@ -13,11 +13,13 @@ uses crt;
 const
   MAX: longint = 10001;
 
+
 function isPrime(arg: longint): boolean;
 var
   prime: boolean = true;
   x: longint;
   i: longint;
+  temp: longint;
 
 begin
   if arg < 2 then begin
@@ -43,12 +45,12 @@ var
  counter: longint = 0;
 
 begin
-  while counter <> MAX do begin
+  repeat
     x := x + 1;
     if isPrime(x) then begin
       counter := counter + 1;
     end;
-  end;
+  until(counter = MAX);
   primeNumbers := x;
 end;
 
