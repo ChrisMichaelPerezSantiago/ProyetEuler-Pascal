@@ -2,8 +2,8 @@ program problem06;
 uses crt;
 
   (*
-     Problem: Largest palindrome product
-     Problem 4
+     Problem: Sum square difference
+     Problem 6
 
      @Author: Chris M. Perez
      @Date:   5/14/2017
