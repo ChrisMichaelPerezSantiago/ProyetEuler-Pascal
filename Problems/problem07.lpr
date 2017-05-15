@@ -19,7 +19,6 @@ var
   prime: boolean = true;
   x: longint;
   i: longint;
-  temp: longint;
 
 begin
   if arg < 2 then begin
