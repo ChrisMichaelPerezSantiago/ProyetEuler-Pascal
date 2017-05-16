@@ -18,6 +18,7 @@ var
   actualValue: longint = 20;
   i: longint;
 
+
 begin
   while true do begin
     for i := 1 to arg do begin
