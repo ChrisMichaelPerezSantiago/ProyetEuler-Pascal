@@ -10,7 +10,7 @@ uses crt;
   *)
 
 const
-  MAX: longint 20;
+  MAX: longint = 20;
 
 function smallestMultiple(arg: longint): longint;
 var
